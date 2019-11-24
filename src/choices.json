@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Jon Snow",
+    "image": "./images/jon.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Melisandre",
+    "image": "./images/Melisandre.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ned Stark",
+    "image": "./images/Ned.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tyrion Lannister ",
+    "image": "./images/Tyrion.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Arya Stark",
+    "image": "./images/Arya.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sansa Stark",
+    "image": "./images/Sansa.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Daenerys Targaryen",
+    "image": "./images/Daenerys.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cersei Lannister",
+    "image": "./images/Cersei.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jaime Lannister",
+    "image": "./images/Jaime.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Brienne of Tarth",
+    "image": "./images/Brienne.jpg"
+  }
+]
